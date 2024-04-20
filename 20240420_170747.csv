@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Login,Chrome 123.0.0.0,,,20-04-2024 17:08:06,20-04-2024 17:10:05,1m - 59.153s,PASSED
+,,,,,,,
+Test Cases/TC1 - Login Succesfully,Chrome 123.0.0.0,,,20-04-2024 17:08:06,20-04-2024 17:08:23,16.746s,PASSED
+,,,,,,,
+Test Cases/TC2 - Invalid Login,Chrome 123.0.0.0,,,20-04-2024 17:08:23,20-04-2024 17:08:45,22.423s,PASSED
+,,,,,,,
+Test Cases/TC3 - Detail Product,Chrome 123.0.0.0,,,20-04-2024 17:08:45,20-04-2024 17:09:26,40.556s,PASSED
+,,,,,,,
+Test Cases/TC4 - Add To Cart,Chrome 123.0.0.0,,,20-04-2024 17:09:26,20-04-2024 17:09:47,21.098s,PASSED
+,,,,,,,
+Test Cases/TC5 - LogOut Succesfully,Chrome 123.0.0.0,,,20-04-2024 17:09:47,20-04-2024 17:10:04,17.200s,PASSED
